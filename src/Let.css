@@ -1,0 +1,122 @@
+.let{
+    background-color: rgb(10, 30, 40);
+    text-align: center;
+    height: 1200px;
+}
+.let form input{
+    margin-right: 20px;
+    width: 570px;
+    border: 0;
+    background-color:rgb(10, 30, 40);
+    padding: 22px;
+    color: hsl(240, 7%, 100%);
+  
+  }
+  
+ .let form textarea{
+    margin-right: 20px;
+    width: 570px;
+    border: 0;
+    background-color:rgb(10, 30, 40);
+    padding: 22px;
+    color: hsl(240, 7%, 100%);
+  }
+  .let ::placeholder{
+    color: hsl(0, 27%, 98%);
+  }
+  .let .info input{
+    font-size: 22px;
+    border-bottom: 4px solid rgb(17, 49, 65);
+    font-family: 'Times New Roman', Times, serif;
+  }
+ .let .no input{
+    font-size: 22px;
+    border-bottom: 4px solid rgb(17, 49, 65);
+    font-family: 'Times New Roman', Times, serif;
+  }
+ .let .em input{
+    font-size: 22px;
+    border-bottom: 4px solid rgb(17, 49, 65);
+    font-family: 'Times New Roman', Times, serif;
+  }
+ .let .msg textarea{
+    font-size: 22px;
+    border-bottom: 4px solid rgb(17, 49, 65);
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .let .btn{
+    border: 1px solid rgb(250, 231, 195);
+    width: 120px;
+    height: 35px;
+    color: rgb(250, 231, 195);
+    font-size: 22px;
+    margin: 50px;
+    border-radius: 3px;
+    background-color:#0B1D27;
+    text-align: center;
+  }
+  
+ .let  .top2{
+  text-align: center;
+  color:rgb(250, 231, 195);
+  font-size: 150px;
+  margin-bottom: 10px;
+  margin-top: -3px;
+  }
+  
+ .let .h3{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-top: -100px;
+    font-size: 30px;
+  }
+  
+ .let .p2{
+    text-align: center;
+    color:rgb(255, 255, 255);
+    margin-bottom: 20px;
+    margin-top: 5px;
+  }
+  
+ .let h5{
+    padding: 10px;
+    width: 150px;
+    height: 20px;
+    color: rgb(250, 231, 195);
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 90px;
+    font-size: 20px;
+    margin: auto;
+  } 
+
+
+  @media screen and (max-width:600px)   {
+    .let form input,.let form .msg textarea{
+        width: 250px;
+      }
+      .let form .info input,.let form .no input,.let form .em input,.let form .msg textarea{
+        font-size: 15px;
+      }
+      .let form .btn{
+        height:20px ;
+        width: 90px;
+        font-size: 15px;
+      }
+      .let .top2{
+        font-size: 50px;
+      }
+     .let .h3{
+        margin-top: -25px;
+        font-size: 20px;
+      }
+      .let .p2{
+        font-size: 12px;
+      }
+     .let .top h5{
+        font-size: 12px;
+        height: 12px;
+        width: 100px;
+      } 
+  }

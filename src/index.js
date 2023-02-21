@@ -1,13 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import UseReducer from './UseReducer';
+// import Component from './Component';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    {/* <UseReducer/>
+    <Component/> */}
   </React.StrictMode>
 );
 

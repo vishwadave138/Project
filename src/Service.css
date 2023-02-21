@@ -1,0 +1,431 @@
+.whole{
+    background-color:rgb(10, 30, 40);
+  }
+  
+  .text1{
+    display: flex;
+    justify-content: space-between;
+  }
+  .date{
+    margin-left: 75px;
+  }
+  .date h1{
+    font-size: 58px;
+    color:bisque;
+  }
+  .fit{
+    margin-top: -40px;
+  }
+  .hr1{
+    width: 250px;
+    border: 1.5px solid  rgb(250, 231, 195);
+  }
+  .horizon{
+    border-radius: 100%;
+    width: 3px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 256px;
+    margin-top: -7px;
+  }
+  .date h3{
+    font-size: 38px;
+    color: white;
+  }
+  .date h3 .fon{
+    font-size: 50px;
+  }
+  .date h4{
+    font-size: 24px;
+    color: white;
+  }
+  .text1 img{
+    height: 530px;
+    width: 500px;
+    margin-right: 40px;
+  }
+  .heart {
+    text-align:center;
+    color:bisque;
+    font-size:48px;
+    margin-top: 100px;
+  }
+  .date1{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+  }
+  .text2{
+    margin-top: -50px;
+  }
+  .head1{
+    display: flex;
+    margin-top: -90px;
+  }
+  .head1 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+  }
+  .fit1{
+    margin-top: 180px;
+    margin-left: -78px;
+  }
+  .hr2{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+  }
+  .horizon1{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+  }
+  .head1 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+  }
+  .graf{
+    display: flex;
+    margin-left: 40px;
+    margin-top: -70px;
+  }
+  .vartic{
+    margin-top: -6px;
+  }
+  .vl1{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .vl2{
+    height: 48px;
+    border-left: 2px solid rgb(250, 231, 195);
+    margin-left: 8px;
+  }
+  .vl3{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .vl4{
+    height: 72px;
+    border-left: 2px solid rgb(250, 231, 195);
+    margin-left: 8px;
+  }
+  .vl5{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .grid{
+    font-size: 18px;
+    color: white;
+    margin-top: -28px;
+    margin-left: 20px;
+  }
+  .date1 img{
+    width: 450px;
+    height: 480px;
+    border-radius:0px 52px 0px 52px;
+  }
+  .date2{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+    margin-top: 150px;
+  }
+  .text3{
+    margin-top: -50px;
+  }
+  .head2{
+    display: flex;
+    margin-top: -90px;
+  }
+  .head2 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+  }
+  .fit3{
+    margin-top: 180px;
+    margin-left: -78px;
+  }
+  .hr3{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+  }
+  .horizon2{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+  }
+  .head2 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+  }
+  .graf1{
+    display: flex;
+    margin-left: 40px;
+    margin-top: -70px;
+  }
+  .vartic1{
+    margin-top: -6px;
+  }
+  .vl11{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .vl22{
+    height: 122px;
+    border-left: 2px solid rgb(250, 231, 195);
+    margin-left: 8px;
+  }
+  .vl33{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .vl44{
+    height: 72px;
+    border-left: 2px solid rgb(250, 231, 195);
+    margin-left: 8px;
+  }
+  .vl55{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .grid1{
+    font-size: 18px;
+    color: white;
+    margin-top: -28px;
+    margin-left: 20px;
+  }
+  .date2 img{
+    width: 450px;
+    height: 480px;
+    border-radius:0px 52px 0px 52px;
+  }
+  .date3{
+    display: flex;
+    justify-content: space-between;
+    margin: 80px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+  }
+   .text4{
+    margin-top: -50px;
+  }
+  .head3{
+    display: flex;
+    margin-top: -90px;
+  }
+  .head3 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+  }
+  .fit4{
+    margin-top: 180px;
+    margin-left: -78px;
+  }
+  .hr4{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+  }
+  .horizon3{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+  }
+  .head3 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+  }
+  .graf2{
+    display: flex;
+    margin-left: 40px;
+    margin-top: -70px;
+  }
+  .vartic2{
+    margin-top: -6px;
+  }
+  .vl111{
+    height: 15px;
+    width: 15px;
+    border: 2px solid rgb(250, 231, 195);
+    border-radius: 100%;
+  }
+  .vl222{
+    height: 30px;
+    border-left: 2px solid rgb(250, 231, 195);
+    margin-left: 8px;
+  }
+  
+  .grid2{
+    font-size: 18px;
+    color: white;
+    margin-top: -28px;
+    margin-left: 20px;
+  } 
+  .date3 img{
+    width: 450px;
+    height: 480px;
+    border-radius:0px 52px 0px 52px;
+    margin-bottom: 100px;
+  }
+  /* .top2{
+    text-align: center;
+    color:rgb(250, 231, 195);
+    font-size: 150px;
+    margin-bottom: 10px;
+    margin-top: -3px;
+    }
+    
+    .h3{
+      text-align: center;
+      color: rgb(255, 255, 255);
+      margin-bottom: 20px;
+      margin-top: -100px;
+      font-size: 30px;
+    }
+    
+    .p2{
+      text-align: center;
+      color:rgb(255, 255, 255);
+      margin-bottom: 20px;
+      margin-top: 5px;
+    }
+    
+    h5{
+      padding: 10px;
+      width: 150px;
+      height: 20px;
+      color: rgb(250, 231, 195);
+      border: 2px solid rgb(250, 231, 195);
+      border-radius: 90px;
+      font-size: 20px;
+      margin: auto;
+    } */
+
+  @media screen and (max-width:600px) {
+    .text1{
+      display: block;
+      margin-top: -20px;
+    }
+    .date h1{
+      font-size: 30px;
+    }
+    .fit{
+      margin-top: -17px;
+    }
+    .hr1{
+      width: 130px;
+    }
+    .horizon{
+      margin-top: -6px;
+      margin-left: 135px;
+      width: 3px;
+      border: 5px solid rgb(250, 231, 195);
+    }
+    .date h3{
+      font-size: 25px;
+    }
+    .date h4{
+      font-size: 16px;
+    }
+    .text1 img{
+      margin-left: 50px;
+      height: 350px;
+      width: 350px;
+    }
+    .head{
+      font-size: 35px;
+    }
+    .date1, .date2, .date3{
+      display: block;
+    }
+    .head1 h1, .head2 h1, .head3 h1{
+      font-size: 70px;
+    }
+    .head1 .fit1, .head2 .fit3, .head3 .fit4{
+      margin-top: 100px;
+      margin-left: -40px;
+    }
+    .head1 .fit1 .hr2, .head2 .fit3 .hr3, .head3 .fit4 .hr4{
+      width: 33px;
+      border: 1.6px solid rgb(250, 231, 195);
+    }
+    .head1 .fit1 .horizon1, .head2 .fit3 .horizon2, .head3 .fit4 .horizon3{
+      width: 3px;
+      border: 4px solid rgb(250, 231, 195);
+      margin-left: 35px;
+      margin-top: -5px;
+    }
+    .head1 h2, .head2 h2, .head3 h2{
+      font-size: 18px;
+      margin-top: 90px;
+    } 
+    .graf ,.graf1, .graf2{
+      margin-top: -20px;
+    }
+    .graf .vartic, .graf1 .vartic1, .graf2 .vartic2{
+      margin-top: -10px;
+    }
+    
+    .graf .vartic .vl2{
+      height: 77px;
+    }
+    .graf .vartic .vl4{
+      height: 95px;
+    }
+    .graf1 .vartic1 .vl22{
+      height: 177px;
+    }
+    .graf1 .vartic1 .vl44{
+      height: 95px;
+    }
+    .graf2 .vartic2 .vl222{
+      height: 20px;
+    }
+    .graf .grid, .graf1 .grid1, .graf2 .grid2{
+      font-size: 15px;
+    }
+    .text3, .date2, .date3{
+      margin-top: 30px;
+    }
+    .date1 img, .date2 img, .date3 img{
+      width: 300px;
+      height: 400px;
+    }
+    /* .top2{
+      font-size: 50px;
+    }
+    .h3{
+      margin-top: -25px;
+      font-size: 20px;
+    }
+    .p2{
+      font-size: 12px;
+    }
+    .top h5{
+      font-size: 12px;
+      height: 12px;
+      width: 100px;
+    } */
+  }

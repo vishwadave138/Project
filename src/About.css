@@ -1,0 +1,537 @@
+.about{
+    background-color:rgb(10, 30, 40);
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(10, 30, 40);
+}
+.tital{
+    margin-left: 150px;
+}
+.tital h1{
+    font-size: 58px;
+    color: bisque;
+    margin-top: 90px;
+}
+.line{
+    margin-top: -38px;
+    margin-left: 23px;
+  }
+.line1{
+    width: 251px;
+    border: 1.4px solid bisque;
+}
+.dot{
+    border-radius: 100%;
+    width: 3px;
+    border: 5.5px solid bisque;
+    margin-left: 256px;
+    margin-top: -7px;
+}
+.tital h3{
+    font-size: 40px;
+    color: white;
+}
+.tital p{
+    font-size: 15px;
+    color: white;
+}
+.head img{
+    height: 580px;
+    width: 620px;
+}
+.high{
+    text-align: center;
+    font-size: 45px;
+    color: bisque;
+    background-color: rgb(10, 30, 40);
+    margin-top: -40px;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(10, 30, 40);
+    margin: 80px;
+    margin-top: -10px;
+}
+.subimg1, .subimg2, .subimg3{
+    background-color: rgb(17, 49, 65);
+    border-radius:0px 52px 0px 52px;
+    height: 490px;
+}
+.subimg1 img, .subimg2 img, .subimg3 img{
+    height: 300px;
+    width: 300px;
+    border-radius:0px 52px 0px 52px;
+}
+.subimg1 h4, .subimg2 h4, .subimg3 h4{
+    font-size: 30px;
+    text-align: center;
+    color: bisque;
+    margin-top: 60px;
+}
+.long1, .long2{
+    margin-left: 140px;
+    margin-top: -37px;
+  }
+.long3{
+    margin-left: 120px;
+    margin-top: -37px;
+}
+.line2, .line3, .line4{
+    width: 90px;
+    border: 1.4px solid bisque;
+}
+.dot1, .dot2, .dot3{
+    border-radius: 100%;
+    width: 3px;
+    border: 5.5px solid bisque;
+    margin-left: 95px;
+    margin-top: -7px;
+}
+.horizont{
+    background-color: rgb(10, 30, 40);
+}
+.horizont .hori{
+    width: 96%;
+    border: 3.5px solid rgb(17, 49, 65);
+    margin-left: 17px;
+}
+.high1 {
+    background-color: rgb(10, 30, 40);
+    text-align: center;
+}
+.high1 h4{
+    font-size: 43px;
+    color: bisque;
+}
+.process{
+    display: flex;
+    justify-content: space-between;
+    margin: 90px;
+    margin-top: -60px;
+}
+.process img{
+    height: 600px;
+    width: 600px;
+}
+.proce{
+    margin-top: 40px;
+}
+.part1{
+    display: flex;
+    margin-top: -90px;
+  }
+.part1 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+}
+.list1{
+    margin-top: 180px;
+    margin-left: -78px;
+}
+.set1{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+}
+.dott1{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+}
+.part1 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+}
+.part2{
+    display: flex;
+    margin-top: -140px;
+    margin-left: -140px;
+  }
+.part2 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+}
+.list2{
+    margin-top: 180px;
+    margin-left: -78px;
+}
+.set2{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+}
+.dott2{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+}
+.part2 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+}
+.part3{
+    display: flex;
+    margin-top: -130px;
+    margin-left: -320px;
+  }
+.part3 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+}
+.list3{
+    margin-top: 180px;
+    margin-left: -78px;
+}
+.set3{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+}
+.dott3{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+}
+.part3 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+}
+.part4{
+    display: flex;
+    margin-top: -170px;
+    margin-left: -650px;
+  }
+.part4 h1{
+    font-size: 130px;
+    color: rgb(17, 49, 65);
+}
+.list4{
+    margin-top: 180px;
+    margin-left: -78px;
+}
+.set4{
+    width: 70px;
+    border: 2px solid  rgb(250, 231, 195);
+}
+.dott4{
+    border-radius: 100%;
+    width: 4px;
+    border: 7px solid rgb(250, 231, 195);
+    margin-left: 77px;
+    margin-top: -8.8px;
+}
+.part4 h2{
+    color: bisque;
+    font-size: 28px;
+    margin-top: 160px;
+    margin-left: 9px;
+}
+.chess{
+    display: flex;
+    background-color: rgb(17, 49, 65);
+    margin-top: -140px;
+}
+.chess img{
+    width: 50%;
+    height: 557px;
+}
+.chess .detail{
+    margin-left: 90px;
+}
+.chess .detail h2{
+    font-size: 40px;
+    color: bisque;
+}
+.chess .detail .detail1, .chess .detail .detail2, .chess .detail .detail3, .chess .detail .detail4, 
+.chess .detail .detail5{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.chess .detail .detail1 h6, .chess .detail .detail2 h6, .chess .detail .detail3 h6, .chess .detail .detail4 h6,
+.chess .detail .detail5 h6{
+    font-size: 24px;
+    margin-top: 0px;
+}
+.chess .detail .detail1 p, .chess .detail .detail2 p, .chess .detail .detail3 p, .chess .detail .detail4 p,
+.chess .detail .detail5 p{
+    margin-top: 8px;
+    margin-left: 120px;
+}
+.high2{
+    text-align: center;
+}
+.high2 h4{
+    font-size: 45px;
+    color: bisque;
+}
+.inform{
+    display: flex;
+    justify-content: space-between;
+    margin: 110px;
+    margin-top: -40px;
+    margin-bottom: 0px;
+}
+.inform .imfor1, .inform .imfor2, .inform .imfor3, .inform .imfor4{
+    display: flex;
+}
+.inform .imfor1 h2, .inform .imfor2 h2, .inform .imfor3 h2, .inform .imfor4 h2{
+    font-size: 58px;
+    color: rgb(17, 49, 65);
+    margin-top: 5px;
+}
+.inform .imfor1 p, .inform .imfor2 p, .inform .imfor3 p, .inform .imfor4 p{
+    font-size: 20px;
+    color: bisque;
+    margin-left: 10px;
+}
+
+
+
+@media screen and (max-width:600px) {
+    .head{
+        display: block;
+    }
+    .tital{
+        margin-left: 10px;
+    }
+    .tital h1{
+        font-size: 43px;
+        color: bisque;
+    }
+    .line{
+        margin-top: -34px;
+        margin-left: 118px;
+      }
+    .line1{
+        width: 190px;
+        border: 1.4px solid bisque;
+    }
+    .dot{
+        border-radius: 100%;
+        width: 3px;
+        border: 5.5px solid bisque;
+        margin-left: 190px;
+        margin-top: -7px;
+    }
+    .tital h3{
+        font-size: 30px;
+        color: white;
+    }
+    .tital p{
+        font-size: 10px;
+        color: white;
+    }
+    .head img{
+        height: 350px;
+        width: 400px;
+    }
+    .high{
+        font-size: 35px;
+    }
+    .images{
+        display: block;
+    }
+    .subimg1, .subimg2, .subimg3{
+        height: 300px;
+        margin: 10px;
+    }
+    .subimg1 img, .subimg2 img, .subimg3 img{
+        height: 150px;
+        width: 255px;
+    }
+    .subimg1 h4, .subimg2 h4, .subimg3 h4{
+        font-size: 20px;
+        margin-top: 60px;
+    }
+    .long1, .long2{
+        margin-left: 125px;
+        margin-top: -28px;
+      }
+    .long3{
+        margin-left: 114px;
+        margin-top: -28px;
+    }
+    .line2, .line3, .line4{
+        width: 60px;
+        border: 1.4px solid bisque;
+    }
+    .dot1, .dot2, .dot3{
+        width: 2px;
+        border: 5px solid bisque;
+        margin-left: 60px;
+        margin-top: -7px;
+    }
+    .horizont .hori{
+        width: 90%;
+    }
+    .process{
+        margin-left: 20px;
+    }
+    .process img{
+        height: 200px;
+        width: 200px;
+    }
+    .part1{
+        display: flex;
+        margin-top: -50px;
+        margin-left: 40px;
+      }
+    .part1 h1{
+        font-size: 50px;
+        color: rgb(17, 49, 65);
+    }
+    .list1{
+        margin-top: 70px;
+        margin-left: -30px;
+    }
+    .set1{
+        width: 30px;
+        border: 1.5px solid  rgb(250, 231, 195);
+    }
+    .dott1{
+        border-radius: 100%;
+        width: 3px;
+        border: 6px solid rgb(250, 231, 195);
+        margin-left: 32px;
+        margin-top: -8px;
+    }
+    .part1 h2{
+        color: bisque;
+        font-size: 22px;
+        margin-top: 55px;
+        margin-left: 9px;
+    }
+    .part2{
+        display: flex;
+        margin-top: -70px;
+        margin-left: 10px;
+      }
+    .part2 h1{
+        font-size: 50px;
+        color: rgb(17, 49, 65);
+    }
+    .list2{
+        margin-top: 70px;
+        margin-left: -30px;
+    }
+    .set2{
+        width: 30px;
+        border: 1.5px solid  rgb(250, 231, 195);
+    }
+    .dott2{
+        border-radius: 100%;
+        width: 3px;
+        border: 6px solid rgb(250, 231, 195);
+        margin-left: 32px;
+        margin-top: -8px;
+    }
+    .part2 h2{
+        color: bisque;
+        font-size: 22px;
+        margin-top: 55px;
+        margin-left: 9px;
+    }
+    .part3{
+        display: flex;
+        margin-top: -70px;
+        margin-left: -40px;
+      }
+    .part3 h1{
+        font-size: 50px;
+        color: rgb(17, 49, 65);
+    }
+    .list3{
+        margin-top: 70px;
+        margin-left: -30px;
+    }
+    .set3{
+        width: 30px;
+        border: 1.5px solid  rgb(250, 231, 195);
+    }
+    .dott3{
+        border-radius: 100%;
+        width: 3px;
+        border: 6px solid rgb(250, 231, 195);
+        margin-left: 32px;
+        margin-top: -8px;
+    }
+    .part3 h2{
+        color: bisque;
+        font-size: 22px;
+        margin-top: 55px;
+        margin-left: 9px;
+    }
+    .part4{
+        display: flex;
+        margin-top: -80px;
+        margin-left: -130px;
+      }
+    .part4 h1{
+        font-size: 50px;
+        color: rgb(17, 49, 65);
+    }
+    .list4{
+        margin-top: 70px;
+        margin-left: -30px;
+    }
+    .set4{
+        width: 30px;
+        border: 1.5px solid  rgb(250, 231, 195);
+    }
+    .dott4{
+        border-radius: 100%;
+        width: 3px;
+        border: 6px solid rgb(250, 231, 195);
+        margin-left: 32px;
+        margin-top: -8px;
+    }
+    .part4 h2{
+        color: bisque;
+        font-size: 22px;
+        margin-top: 55px;
+        margin-left: 9px;
+    }
+    .chess{
+        display: block;
+        margin-top: -80px;
+    }
+    .chess img{
+        width: 100%;
+        height: 300px;
+    }
+    .chess .detail{
+        margin-left: 20px;
+        margin: 30px;
+    }
+    .chess .detail h2{
+        font-size: 20px;
+    }
+    .chess .detail .detail1, .chess .detail .detail2, .chess .detail .detail3, .chess .detail .detail4, 
+    .chess .detail .detail5{
+        margin-top: -10px;
+    }
+    .chess .detail .detail1 h6, .chess .detail .detail2 h6, .chess .detail .detail3 h6, .chess .detail .detail4 h6, 
+    .chess .detail .detail5 h6{
+        font-size: 15px;
+    }
+    .chess .detail .detail1 p, .chess .detail .detail2 p, .chess .detail .detail3 p, .chess .detail .detail4 p, 
+    .chess .detail .detail5 p{
+        font-size: 15px;
+    }
+    .inform{
+        display: block;
+    }
+}
